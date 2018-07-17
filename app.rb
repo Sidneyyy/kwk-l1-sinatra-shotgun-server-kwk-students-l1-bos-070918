@@ -6,4 +6,8 @@ class App < Sinatra::Base
     "han yolo "
   end
 
+get '/Kitty' do
+  "Hello....Kitty!"
+end
+
 end
