@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "han yolo "
+    "han yolo"
   end
 
 get '/Kitty' do
